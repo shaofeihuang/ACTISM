@@ -8,6 +8,8 @@ This repository contains the high-resolution images for the Threat-Informed Secu
 
 1. Data Flow Diagram for modern vehicles
 2. Data Flow Diagram for an In-Vehicle Informatics (IVI) system
+3. Attack tree for IVI system
+4. Threat Analysis and Risk Assessment (TARA) framework
 
 ---
 
