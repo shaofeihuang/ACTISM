@@ -1,8 +1,8 @@
-# Threat-informed Security Modelling for Modern Vehicles
+# Threat-informed Dynamic Security Modelling for Modern Vehicles
 
 ## Overview
 
-This repository contains the high-resolution images for the Threat-Informed Security Modelling for Modern Vehicles article.
+This repository contains the high-resolution images for the Threat-Informedd Dynamic Security Modelling for Modern Vehicles article.
 
 ## Repository Contents
 
