@@ -1,13 +1,13 @@
-# Threat-informed Dynamic Security Modelling for Modern Vehicles
+# Threat-informed Dynamic Security Modelling for Automotive Systems
 
 ## Overview
 
-This repository contains the high-resolution images for the Threat-Informedd Dynamic Security Modelling for Modern Vehicles article.
+This repository contains the high-resolution images for the Threat-Informed Dynamic Security Modelling for Automotive Systems article.
 
 ## Repository Contents
 
-1. Data Flow Diagram for modern vehicles
-2. Data Flow Diagram for an In-Vehicle Informatics (IVI) system
+1. Data Flow Diagram for Automotive Systems
+2. Data Flow Diagram for In-Vehicle Informatics (IVI) System
 3. Attack tree for IVI system
 4. Threat Analysis and Risk Assessment (TARA) framework
 
