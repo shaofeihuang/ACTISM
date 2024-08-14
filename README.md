@@ -1,8 +1,8 @@
-# Threat-informed Dynamic Security Modelling for Automotive Systems
+# ACTISM: Threat-informed Dynamic Security Modelling for Automotive Systems
 
 ## Overview
 
-This repository contains the high-resolution images for the Threat-Informed Dynamic Security Modelling for Automotive Systems article.
+This repository contains the high-resolution images for the ACTISM: Threat-Informed Dynamic Security Modelling for Automotive Systems article.
 
 ## Repository Contents
 
