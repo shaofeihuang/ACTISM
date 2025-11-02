@@ -1,16 +1,22 @@
-# ACTISM: Threat-informed Dynamic Security Modelling for Automotive Systems
+# ACTISM: Threat-Informed Dynamic Security Modelling for Automotive Systems
 
 ## Overview
 
-This repository contains the high-resolution images for the ACTISM: Threat-Informed Dynamic Security Modelling for Automotive Systems article.
+This repository provides high-resolution images and supporting materials for the article:
+**ACTISM: Threat-Informed Dynamic Security Modelling for Automotive Systems**  
+[Read on arXiv](https://arxiv.org/abs/2412.00416)
+
+The ACTISM framework enables robust security analysis of automotive systems using dynamic threat modeling, attack trees, and data flow diagrams.
 
 ## Repository Contents
 
-1. Data Flow Diagram for Automotive Systems
-2. Data Flow Diagram for In-Vehicle Informatics (IVI) System
-3. Attack tree for IVI system
-4. Threat Analysis and Risk Assessment (TARA) framework
+- **Data Flow Diagram for Automotive Systems**: Visualizes system architecture and communication paths relevant for threat analysis.
+- **Data Flow Diagram for In-Vehicle Informatics (IVI) System**: Focuses on the IVI subsystem, highlighting interfaces and data exchanges.
+- **Attack Tree for IVI System**: Depicts potential attack vectors and their hierarchical relationships for comprehensive risk evaluation.
+- **Threat Analysis and Risk Assessment (TARA) Framework**: Provides a structured approach for identifying and assessing security threats in automotive environments.
 
 ---
 
-Thank you for your interest in our article. We hope that this repository serves as a valuable resource for researchers, practitioners, and students interested in understanding and advancing the state of knowledge in this important field.
+Thank you for your interest in ACTISM. This repository aims to support researchers, practitioners, and students in advancing the knowledge and application of dynamic automotive cybersecurity.
+
+---
